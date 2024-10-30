@@ -8,10 +8,10 @@ An S3 bucket was used to host static web content such as HTML and JS files. An A
 
 ## Application Interface
 **Order Form**
-![telegram-cloud-photo-size-5-6129811706520650217-y](https://github.com/user-attachments/assets/c8a9824e-e7eb-4ad7-aa9b-b34675a038f7)  
+![telegram-cloud-photo-size-5-6129811706520650235-y](https://github.com/user-attachments/assets/8213266c-0164-4932-b17e-7b76e54385e8)
 
 **View All Orders**
-![telegram-cloud-photo-size-5-6129811706520650204-y](https://github.com/user-attachments/assets/9ebcf417-f532-4d94-b7ce-45cb9c3282c0)
+![telegram-cloud-photo-size-5-6129811706520650236-y](https://github.com/user-attachments/assets/955b58d7-031d-429e-881b-1aa2644614dc)
 
 ## AWS Architecture
 ![get_order (1)](https://github.com/user-attachments/assets/aad82285-1965-424d-92a1-b96b7908e486)
