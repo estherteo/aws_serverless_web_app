@@ -14,7 +14,7 @@ An S3 bucket was used to host static web content such as HTML and JS files. An A
 ![telegram-cloud-photo-size-5-6129811706520650204-y](https://github.com/user-attachments/assets/9ebcf417-f532-4d94-b7ce-45cb9c3282c0)
 
 ## AWS Architecture
-<img width="1207" alt="image" src="https://github.com/user-attachments/assets/9c2890ec-c784-46fd-940c-67798c787d00">
+![get_order (1)](https://github.com/user-attachments/assets/aad82285-1965-424d-92a1-b96b7908e486)
 
 ## Services used:
 
